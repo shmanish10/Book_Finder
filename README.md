@@ -1,12 +1,88 @@
-# React + Vite
+## 📚 Book Finder — React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** [Book Finder App](https://book-finder-vk9o.onrender.com)
 
-Currently, two official plugins are available:
+### 🔍 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Book Finder** is a single-page React application that allows users to search for books instantly using an open public API. As users type, the app automatically fetches and displays results, making the experience fast, dynamic, and user-friendly.
 
-## Expanding the ESLint configuration
+This project demonstrates efficient **API integration**, **state management**, and **responsive UI design** in React.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🚀 Features
+
+* 🔎 **Real-time Search:** Results update automatically as you type.
+* 📖 **Book Details:** Displays book cover, title, author, and publication year.
+* ⚛️ **Single Page Application (SPA):** Built entirely with React.
+* 🎨 **Responsive Design:** Works seamlessly on desktop and mobile devices.
+* 🌐 **Public API Integration:** Fetches data dynamically from the Open Library API.
+* ⚡ **Optimized Performance:** Debounced search for smoother user experience.
+
+---
+
+### 🧩 Tech Stack
+
+* **Frontend:** React.js, JSX
+* **Styling:** CSS3, Flexbox / Grid
+* **Data Source:** Open Library API (public API)
+* **Deployment:** Render
+
+---
+
+### 🖼️ Screenshots
+
+| Search Page                                                                   | Search Results                                                                |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| ![Book Finder Screenshot](https://book-finder-vk9o.onrender.com/preview1.png) | ![Book Finder Screenshot](https://book-finder-vk9o.onrender.com/preview2.png) |
+
+---
+
+### ⚙️ Installation & Setup
+
+To run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/book-finder.git
+
+# Navigate to project folder
+cd book-finder
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+```
+
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+### 💡 Learning Highlights
+
+Through this project, I learned:
+
+* How to use **React hooks** (`useState`, `useEffect`) for managing data flow.
+* Handling **asynchronous API calls** efficiently.
+* Implementing **responsive layouts** with consistent card sizes.
+* Improving UX with **debounce search** and **loading states**.
+
+---
+
+### 🏁 Future Improvements
+
+* Add pagination or infinite scrolling.
+* Display detailed book info in a modal or new route.
+* Implement dark/light mode toggle.
+
+---
+
+### 👨‍💻 Developed by
+
+**Manish Sharma**
+Frontend Developer | React Enthusiast
+
+Would you like me to tailor it for your **README.md file format** (with Markdown styling and ready to paste)?
+I can also include your **project folder structure** and **preview image placeholders** if you’d like.
