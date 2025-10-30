@@ -76,5 +76,3 @@ Through this project, I learned:
 **Manish Sharma**
 Frontend Developer | React Enthusiast
 
-Would you like me to tailor it for your **README.md file format** (with Markdown styling and ready to paste)?
-I can also include your **project folder structure** and **preview image placeholders** if you’d like.
