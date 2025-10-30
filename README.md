@@ -30,14 +30,6 @@ This project demonstrates efficient **API integration**, **state management**, a
 
 ---
 
-### 🖼️ Screenshots
-
-| Search Page                                                                   | Search Results                                                                |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![Book Finder Screenshot](https://book-finder-vk9o.onrender.com/preview1.png) | ![Book Finder Screenshot](https://book-finder-vk9o.onrender.com/preview2.png) |
-
----
-
 ### ⚙️ Installation & Setup
 
 To run the project locally:
